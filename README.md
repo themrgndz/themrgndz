@@ -1,14 +1,18 @@
-# Merhaba! 👋 Ben Emre Gündüz
+# Hello! 👋 I'm Emre Gündüz
 
-- 🚀 **Fullstack Geliştirici**
-- 🎓 Düzce Üniversitesi Bilgisayar Mühendisliği Mezunu
-- 💻 Grails, Java, React, .NET Core, NLP ve Derin Öğrenme ile ilgileniyorum.
+- 🚀 **Fullstack Developer**
+- 🎓 Graduate of Computer Engineering, Düzce University
+- 💻 Interested in Grails, Java, React, .NET Core, NLP, and Deep Learning.
 
-## 📈 GitHub İstatistiklerim
-![Emre'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=themrgndz&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=themrgndz&show_icons=true&theme=radical)
 
-## 🌟 Projelerim
-- [Kütüphane uygulamam](https://github.com/themrgndz/DDoS-Attack-Detection-And-Classification-With-Machine-Learning)
+## 🌟 My Projects
+- [DDoS Attack Detection and Classification with Machine Learning](https://github.com/themrgndz/DDoS-Attack-Detection-And-Classification-With-Machine-Learning)
+- [Association Management Application](https://github.com/themrgndz/Association-Management-Application)
+- [Library Frontend Project](https://github.com/themrgndz/Library-Frontend-Project)
+- [Library Backend Project](https://github.com/themrgndz/Library-Backend-Project)
+- [Library Project](https://github.com/themrgndz/LibraryProject)
 
-## 🌐 Bana Ulaş
+## 🌐 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/emrgndz)
