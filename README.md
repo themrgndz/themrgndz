@@ -15,4 +15,4 @@
 - 📖 [Library Project](https://github.com/themrgndz/LibraryProject)
 
 ## 🌐 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/emrgndz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emrgndz)
